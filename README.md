@@ -1,1 +1,1 @@
-Simplified DMA Controller – Developed by Saifeddin Saleh at Birzeit University for the Advanced Digital Design course. Transfers data from a UART module to memory using a single-channel DMA with FSM-based control and testbench verification.
+Simplified DMA Controller – Developed by Saifeddin Saleh and Omar Shobaki at Birzeit University for the Advanced Digital Design course. Transfers data from a UART module to memory using a single-channel DMA with FSM-based control and testbench verification.
